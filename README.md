@@ -120,3 +120,16 @@ $Reamur = \frac{4}{9} \times (Fahrenheit - 32)$
 
 
 27. Selesai
+
+
+---
+
+### 4. Flowcart
+```mermaid
+graph TD
+    A[Mulai] --> B{Apakah Jam > 12.00?}
+    B -- Ya --> C[Tugas Terhitung Telat]
+    B -- Tidak --> D[Tugas Tepat Waktu]
+    C --> E[Selesai]
+    D --> E[Selesai]
+```
