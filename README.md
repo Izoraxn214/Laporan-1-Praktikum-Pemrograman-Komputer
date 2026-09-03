@@ -1,5 +1,3 @@
-Tentu, berikut adalah *Problem Statement*, *Math Equation*, dan *Algoritma* dari dokumen tersebut yang disajikan dalam format Markdown yang rapi:
-
 ### 1. Problem Statement
 
 * Membuat program yang dapat mengkonversi suhu dari Celcius ke Reamur dan Fahrenheit.
