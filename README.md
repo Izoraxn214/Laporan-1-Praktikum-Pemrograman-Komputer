@@ -17,7 +17,7 @@
 Berikut adalah persamaan matematika untuk konversi suhu yang digunakan:
 
 * **a. Konversi suhu dari Celcius ke Reamur:**
-$Reamur = \frac{4}{5} \times Celcius$
+Reamur = \frac{4}{5} \times Celcius
 
 * **b. Konversi suhu dari Celcius ke Fahrenheit:**
 $Fahrenheit = (\frac{9}{5} \times Celcius) + 32$
